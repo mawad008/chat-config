@@ -47,7 +47,7 @@
 
         .n8n-chat-widget .close-button {
             position: absolute;
-            right: 16px;
+            left: 16px;
             top: 50%;
             transform: translateY(-50%);
             background: none;
